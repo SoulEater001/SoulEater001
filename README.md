@@ -47,9 +47,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamdewangan&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=shivamdewangan&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamdewangan&layout=compact&theme=radical)  
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoulEater001&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=SoulEater001&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoulEater001&layout=compact&theme=radical)  
 
 ---
 
